@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-24T23:50:04 GMT+07:00" name="Default suite" finished-at="2026-10-24T23:51:58 GMT+07:00" duration-ms="113823">
+    <groups>
+    </groups>
+    <test started-at="2026-10-24T23:50:04 GMT+07:00" name="Default test" finished-at="2026-10-24T23:51:58 GMT+07:00" duration-ms="113823">
+      <class name="poly.ASM_KTNC.ProductTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:04 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:10 GMT+07:00" duration-ms="5255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="displayProducts_Success()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:10 GMT+07:00" name="displayProducts_Success" finished-at="2026-10-24T23:50:12 GMT+07:00" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayProducts_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:12 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:12 GMT+07:00" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:12 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:16 GMT+07:00" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchProduct_NotFound()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:16 GMT+07:00" name="searchProduct_NotFound" finished-at="2026-10-24T23:50:19 GMT+07:00" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct_NotFound -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:19 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:19 GMT+07:00" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:19 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:23 GMT+07:00" duration-ms="3972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchProduct_PartialName()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:23 GMT+07:00" name="searchProduct_PartialName" finished-at="2026-10-24T23:50:26 GMT+07:00" duration-ms="3626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct_PartialName -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:26 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:26 GMT+07:00" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:26 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:29 GMT+07:00" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="searchProduct_Success()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:29 GMT+07:00" name="searchProduct_Success" finished-at="2026-10-24T23:50:32 GMT+07:00" duration-ms="2352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:32 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:32 GMT+07:00" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:32 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:35 GMT+07:00" duration-ms="3640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="viewProduct_Success()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:35 GMT+07:00" name="viewProduct_Success" finished-at="2026-10-24T23:50:39 GMT+07:00" duration-ms="3521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewProduct_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.ProductTest@1d9b7cce]" started-at="2026-10-24T23:50:39 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:39 GMT+07:00" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- poly.ASM_KTNC.ProductTest -->
+      <class name="poly.ASM_KTNC.CartTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:39 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:43 GMT+07:00" duration-ms="3566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addMultipleProducts_Success()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:43 GMT+07:00" name="addMultipleProducts_Success" finished-at="2026-10-24T23:50:47 GMT+07:00" duration-ms="4278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMultipleProducts_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:47 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:47 GMT+07:00" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:47 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:50 GMT+07:00" duration-ms="3136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addToCart_Success()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:50 GMT+07:00" name="addToCart_Success" finished-at="2026-10-24T23:50:53 GMT+07:00" duration-ms="2701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:53 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:50:53 GMT+07:00" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:53 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:50:57 GMT+07:00" duration-ms="3590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkPriceAndTotal_Success()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:50:57 GMT+07:00" name="checkPriceAndTotal_Success" finished-at="2026-10-24T23:51:00 GMT+07:00" duration-ms="3686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPriceAndTotal_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:00 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:00 GMT+07:00" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:00 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:04 GMT+07:00" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="checkQuantity_Success()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:04 GMT+07:00" name="checkQuantity_Success" finished-at="2026-10-24T23:51:07 GMT+07:00" duration-ms="2969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkQuantity_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:07 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:07 GMT+07:00" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:07 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:11 GMT+07:00" duration-ms="4166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="removeProduct_Success()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:11 GMT+07:00" name="removeProduct_Success" finished-at="2026-10-24T23:51:15 GMT+07:00" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProduct_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.CartTest@6b81ce95]" started-at="2026-10-24T23:51:15 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:16 GMT+07:00" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- poly.ASM_KTNC.CartTest -->
+      <class name="poly.ASM_KTNC.AccountTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:16 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:19 GMT+07:00" duration-ms="3459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_Empty()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:19 GMT+07:00" name="login_Empty" finished-at="2026-10-24T23:51:20 GMT+07:00" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Empty -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:20 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:20 GMT+07:00" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:20 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:24 GMT+07:00" duration-ms="3990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_Fail()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:24 GMT+07:00" name="login_Fail" finished-at="2026-10-24T23:51:26 GMT+07:00" duration-ms="1867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Fail -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:26 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:26 GMT+07:00" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:26 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:30 GMT+07:00" duration-ms="3962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login_Success()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:30 GMT+07:00" name="login_Success" finished-at="2026-10-24T23:51:40 GMT+07:00" duration-ms="9769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:40 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:40 GMT+07:00" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:40 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:44 GMT+07:00" duration-ms="3738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="register_Fail()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:44 GMT+07:00" name="register_Fail" finished-at="2026-10-24T23:51:51 GMT+07:00" duration-ms="6675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_Fail -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:51 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:51 GMT+07:00" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:51 GMT+07:00" name="beforeMethod" finished-at="2026-10-24T23:51:54 GMT+07:00" duration-ms="3820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="register_Success()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:54 GMT+07:00" name="register_Success" finished-at="2026-10-24T23:51:58 GMT+07:00" duration-ms="3547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_Success -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:poly.ASM_KTNC.AccountTest@2a798d51]" started-at="2026-10-24T23:51:58 GMT+07:00" name="afterMethod" finished-at="2026-10-24T23:51:58 GMT+07:00" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- poly.ASM_KTNC.AccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

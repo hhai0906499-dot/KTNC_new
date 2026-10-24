@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: poly.ASM_KTNC.CartTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.72 s -- in poly.ASM_KTNC.CartTest
